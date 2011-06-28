@@ -1,0 +1,7 @@
+D:\Code_Open\MongoDBHelper\bin\Debug\_39.MongoDBHelper.dll
+D:\Code_Open\MongoDBHelper\bin\Debug\_39.MongoDBHelper.pdb
+D:\Code_Open\MongoDBHelper\bin\Debug\MongoDB.Bson.dll
+D:\Code_Open\MongoDBHelper\bin\Debug\MongoDB.Driver.dll
+D:\Code_Open\MongoDBHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Code_Open\MongoDBHelper\obj\Debug\_39.MongoDBHelper.dll
+D:\Code_Open\MongoDBHelper\obj\Debug\_39.MongoDBHelper.pdb
